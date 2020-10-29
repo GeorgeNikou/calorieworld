@@ -28,7 +28,7 @@ Project was created using:
 * MDB Datatables: v4.5.7
 
 ## :information_source: Addtional Information 
-<a href="./calorieworld.docx" >calorieworld.docx</a>
+<a href="./calorieworld.pdf" >calorieworld.pdf</a>
 
 
 
